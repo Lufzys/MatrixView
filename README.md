@@ -15,8 +15,11 @@ Features :
 - Hide process window from stream or screenshots
 - etc ...
 
-Bugs :
- Major Bugs
+![alt text](https://raw.githubusercontent.com/Lufzys/MatrixView/main/Images/matrixView1.PNG?raw=true) 
+
+![alt text](https://raw.githubusercontent.com/Lufzys/MatrixView/main/Images/matrixView2.PNG?raw=true) 
+
+ Major bugs :
  - if the level of the account is lower than level 30 error will occur error getting json parse
 
 Note : If you are going to share this cheat on the forums or if you are going to produce a new software from these codes, please edit me as a credit, I would appreciate it.
