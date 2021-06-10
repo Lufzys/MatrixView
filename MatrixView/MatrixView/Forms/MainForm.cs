@@ -245,7 +245,7 @@ namespace MatrixView.Forms
                 return;
 
             if (!Request(Method.POST,
-                    "https://127.0.0.1/lol-login/v1/session/invoke?destination=inventoryService&method=giftFacebookFan&args=[]")
+                    "/lol-login/v1/session/invoke?destination=inventoryService&method=giftFacebookFan&args=[]")
                 .IsAvaible())
             {
                 MessageBox.Show("Error", "Matrix View", MessageBoxButtons.OK, MessageBoxIcon.Information);
