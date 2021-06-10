@@ -6,7 +6,7 @@ Advanced LCU Tool with UI
 - Auto Accept
 - Appear as Offline
 - Auto Aram Boost
-- Lobby Crasher - FIXED
+- Lobby Crasher - PATCHED
 - Create Clash Lobby
 - Free Tristiana + Riot Girl Tristiana skin
 - Hide process window from stream or screenshots
