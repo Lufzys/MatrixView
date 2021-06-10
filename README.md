@@ -9,5 +9,5 @@ Advanced LCU Tool with UI
 - Lobby Crasher - FIXED
 - Create Clash Lobby
 - Free Tristiana + Riot Girl Tristiana skin
-- Hide process window from stream
+- Hide process window from stream or screenshots
 - etc ...
