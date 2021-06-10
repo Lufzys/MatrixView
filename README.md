@@ -1,4 +1,5 @@
 # MatrixView
+![alt text](https://raw.githubusercontent.com/Lufzys/MatrixView/main/MatrixView.ico?raw=true)
 Advanced LCU Tool with UI
 - Aram Boost
 - Profile Icon Change
