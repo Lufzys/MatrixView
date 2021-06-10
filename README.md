@@ -17,8 +17,6 @@ Features :
 
 ![alt text](https://raw.githubusercontent.com/Lufzys/MatrixView/main/Images/matrixView1.PNG?raw=true) 
 
-![alt text](https://raw.githubusercontent.com/Lufzys/MatrixView/main/Images/matrixView2.PNG?raw=true) 
-
  Major bugs :
  - if the level of the account is lower than level 30 error will occur error getting json parse
 
