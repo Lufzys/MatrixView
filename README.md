@@ -11,7 +11,7 @@ Features :
 - Auto Aram Boost
 - Lobby Crasher - PATCHED
 - Create Clash Lobby
-- Free Tristiana + Riot Girl Tristiana skin
+- Free Tristana + Riot Girl Tristana skin
 - Hide process window from stream or screenshots
 - etc ...
 
